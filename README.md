@@ -1,12 +1,6 @@
 # gamma-data-app
 
-Aşağıda, VideoPlayerApp adlı PyQt5 tabanlı bir video oynatıcı ve indirme uygulaması için profesyonel bir GitHub README dosyasının markdown formatında örneğini bulabilirsiniz:
-
----
-
-# VideoPlayerApp
-
-VideoPlayerApp, PyQt5 ve pytube kütüphanelerini kullanarak basit bir video oynatıcı ve indirme uygulamasıdır. Bu uygulama, kullanıcıların video URL'lerini yapıştırarak veya yerel videoları açarak video izlemelerine ve indirmelerine olanak tanır.
+Gamma Data App, PyQt5 ve pytube kütüphanelerini kullanarak basit bir video oynatıcı ve indirme uygulamasıdır. Bu uygulama, takım üyelerinin video URL'lerini yapıştırarak veya yerel videoları açarak video izlemelerine ve indirmelerine olanak tanır. Bu sayede veriseti oluşturma işinin kolaylaştırılması hedeflenmektedir.
 
 ## Özellikler
 
